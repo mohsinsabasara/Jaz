@@ -1,0 +1,26 @@
+[
+  {
+    "slogan":"Dance with us -----",
+    "image": "static/image/home/dancing-home.jpg",
+    "title": "Dancing : Where Passion Meets Movement!",
+    "content": "Dance is more than just movement; it's an expression of your soul. Join us to learn, grow, and dance with passion!"
+  },
+  {
+    "slogan":"Sing with us -----",
+    "image": "static/image/home/singing-home.jpeg",
+    "title": "Unleash Your Voice with Singing !",
+    "content": "Experience the magic of music with us! Learn to play your favorite instruments or master vocal techniques in a vibrant and inspiring community"
+  },
+  {
+    "slogan":"Modeling with us -----",
+    "image": "static/image/home/modeling-home.jpg",
+    "title": "Modeling Classes Designed for You!",
+    "content": "Discover the world of modeling and enhance your unique beauty! Our classes cover everything from catwalk techniques to personal branding"
+  },
+  {
+    "slogan":"Acting with us -----",
+    "image": "static/image/home/acting-home.jpeg",
+    "title": "Acting Awaits You!",
+    "content": "Ignite your passion for performance in our acting classes. Build confidence, unleash creativity, and master the art of storytelling!"
+  }
+]
